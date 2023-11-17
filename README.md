@@ -4,7 +4,7 @@ This project is a machine learning system developed in Jupyter Notebook and host
 
 ## Usage
 
-1. **_Please use the "Open in Colab" button at the top of the `Claim_Predictor.ipynb` file. Some of the functionality may not work as expected when viewed directly in GitHub._**
+1. **_Please use the "Open in Colab" button at the top of the `Claim_Predictor.ipynb` file (or the link under the "About" section). Some of the functionality may not work as expected when viewed directly in GitHub._**
 
 2. If not already signed into Google, sign in by clicking the blue “Sign in” button at the top right of the page.
 
